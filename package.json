@@ -1,5 +1,5 @@
 {
-  "name": "drive-power-prototyper",
+  "name": "@first-1251/drive-power-prototyper",
   "version": "0.0.1",
   "description": "Visualize translation of driver input to left/right motor output.",
   "main": "src/index.js",
